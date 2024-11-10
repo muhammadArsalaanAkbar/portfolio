@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+}
+main{
+   position: relative;
+}
+.main-img{
+    position:absolute;
+    width: 79rem;
+    height: 80rem;
+}
+h1{
+    font-size: 3rem;
+    color:#293241;
+    position: absolute;
+    margin-bottom:50rem ;
+    margin-left: 2rem;
+    margin-top: 1.8rem;
+}
+p{
+    color:#e5e6e4;
+    position: absolute;
+    margin-left: 5rem;
+    margin-top: 6rem;
+    font-size: 1rem;
+    font-weight: 800;
+    width: 60rem;
+    line-height: 1.5rem;
+    
+}
+h1:hover{
+    color: #324a5f;
+
+}
+.projects{
+    position: absolute;
+    width: 50rem;
+    height: 40rem;
+    margin-top: 10rem;
+    margin-left: 9rem;
+}
+.pro-list{
+    
+        position: absolute;
+        width: 70rem;
+        height: 38rem;
+        margin-top: 5rem;
+       display:flex;
+       flex-wrap: wrap;
+       gap: 3rem;
+      
+    
+}
+.pro-img{
+    width: 18rem;
+    height: 20rem;
+    border-radius: 5rem;
+    border: 1px solid darkslategray;
+    box-shadow:5px 5px 5px 1px seashell;
+    margin-top: 2rem;
+}
+.pro-img:hover{
+   transform: scale(0.9,1);
+   border-radius: 10rem;
+}
+.pro-para{
+    font-size: 1rem;
+    margin-top: 1rem;
+margin-left:5rem;
+margin-bottom: 3rem;
+}
+.pro-para:hover{
+    color:#ffe5d9;
+}
+
+a{
+color:#ffedd8;
+}
+.para-two{
+    margin-top: 58rem;
+    color:#293241;
+    font-size: 1.4rem;
+
+}
+.para{
+    color:#9bc1bc;
+}
+a:hover{
+    color:#22333b;
+}

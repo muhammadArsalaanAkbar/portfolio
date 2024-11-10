@@ -1,0 +1,41 @@
+.foot-one{
+    background-color:#343a40;
+    width: 47rem;
+    height: 8rem;
+    color: aliceblue;
+position:absolute;
+margin-top: 75rem;
+padding-left: 32rem;
+padding-top: 1rem;
+}
+.foot-2{
+
+    color: aliceblue;
+    font-size: 1rem;
+    padding-left: 2.5rem;
+    ;
+    
+}
+.foot-2:Hover{
+
+color:goldenrod ;
+    font-size: 1.2rem;
+}
+.foo-3{
+
+    color: black;
+    font-size: 1rem;
+    background-color: black;
+}
+.icone{
+    color: #cad2c5;
+    padding:0.5rem ;
+}
+.last{
+    padding-left: 3.3rem;
+    font-size: 1.5rem;
+
+}
+.icone:hover{
+ color: #bb8588;
+}

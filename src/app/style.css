@@ -1,0 +1,54 @@
+.one{
+    width:full;
+    height:50rem;
+    position: relative;
+    margin-left:18rem ;
+}
+.div-two{
+    width:fit-content;
+    height: 50rem;
+    position:relative ;
+}
+.picture{
+    width:60rem;
+    height: 50rem;
+    position: absolute;
+    
+    
+}
+.intro{
+    font-size:1.5rem ;
+    color:#f5ebe0;
+    padding-left:48rem ;
+    padding-top:2rem ;
+    width:20rem ;
+    text-align: center;
+    
+
+}
+.type{
+    font-size:1rem ;
+    color:#d8e2dc;
+    padding-left:35rem ;
+    position: absolute;
+    padding-top:15rem ;
+    width:20rem ;
+    text-align: center;
+}
+.intro:hover{
+    color: blue;
+}
+.intro-2{
+    font-size:1rem ;
+    color:#f5ebe0;
+    padding-left:8rem ;
+    position: absolute;
+    padding-top:18rem ;
+    width:20rem ;
+    text-align: center;
+
+}
+.intro-2:hover{
+    color: #f5ebe0;
+    
+}

@@ -1,0 +1,103 @@
+.one{
+  width:full;
+  height:fit-content;
+  position: relative;
+  margin-left:18rem ;
+}
+.div-two{
+  width:fit-content;
+  height:fit-content;
+  position:relative ;
+}
+.picture{
+  width:60rem;
+  height:50rem;
+  position: absolute;
+  
+  
+}
+
+.intro-abo{
+  font-size:2.5rem ;
+  color:black;
+  padding-top:1rem ;
+  width:50rem ;
+  position: absolute;
+  padding-left:2rem ;
+  font-family: serif;
+  color:#03045e;
+}
+.intro-abo:hover{
+  color: #ee9b00;
+}
+
+.para{
+  position:absolute;
+  padding-left:4rem ;
+  font-size: 1rem;
+  color:#2c0735;
+  padding-top: 4rem; ;
+  width: 50rem;
+}
+.div-two{
+  position: absolute;
+  width: 50rem;
+  height: 20rem;
+}
+.pic-two{
+  width:30rem ;
+  padding-left: 2rem;
+  border: 1px solid bisque;
+  margin-top:14rem ;
+  border-radius:12px ;
+  display:flex;
+
+}
+.pic-two:hover{
+  transform: scale(1,0.8);
+}
+.div-to{
+  display: flex;
+  
+}
+.ul{
+  padding-top: 14rem;
+  align-items: start;
+}
+.info{
+  font-weight: 600;
+  font-size: 1.2rem;
+  font-family: serif;
+  padding-right:0.9rem ;
+  text-align:justify;
+}
+.name-one{
+  margin-top: 1rem;
+  width:30rem;
+  font-family:serif;
+  color: #ee9b00;
+  padding-left: 3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  
+}
+.name-one:hover{
+color: #03045e;
+}
+.name-two{
+  width:27rem ;
+  font-size: 1rem;
+  font-family:serif;
+  color:#2c0735;
+  padding-bottom: 1rem;
+}
+.last-para{
+
+  position:absolute;
+  padding-left:4rem ;
+  font-size: 1rem;
+  color:#2c0735;
+  padding-top: 12rem; ;
+  width: 50rem;
+  margin-top: 34rem;
+}

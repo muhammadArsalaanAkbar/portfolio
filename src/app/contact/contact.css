@@ -1,0 +1,155 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: serif;
+}
+main{
+   position: relative;
+}
+.cont-img{
+    position:absolute;
+    width: 79rem;
+    height: 80rem;
+}
+h1{
+    font-size: 3rem;
+    color:#03045e;
+    position: absolute;
+    margin-bottom:50rem ;
+    margin-left: 2rem;
+    margin-top: 5rem;
+}
+p{
+    color:#023047;
+    position: absolute;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    font-size: 1.3rem;
+    font-weight: 800;
+    width: 60rem;
+    line-height: 1.9rem;
+    
+}
+.contact{
+    position: absolute;
+    display: flex;
+    gap:7rem ;
+    margin-left: 8rem;
+}
+.cont{
+width: 25rem;
+height: 36rem;
+margin-top: 20rem;
+border-radius: 2rem;
+box-shadow: 5px 5px 5px 5px navy;
+padding-top:0.1rem;
+
+}
+.form{
+    width: 25rem;
+    height: 34rem;
+    margin-top: 20rem;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px #03045e;
+    padding: 1rem;
+    
+    }
+    .cont-ul{
+        font-size: 1rem;
+        margin-left: 0.1rem;
+        display: block;
+    }
+    .cont-li{
+        color:#001233;
+        font-size: 1.5rem;
+        font-weight: 600;
+        line-height: 2.5rem;
+    }
+    .cont-li:hover{
+        color: #001233;
+    }
+    .cont-a{
+        text-decoration: none;
+        font-size: 1.2rem;
+        color: #023e7d;
+    }
+    .cont-a:hover{
+        color: #979dac;
+    }
+    iframe{
+        border-radius: 1rem;
+        border: 2rem solid black;
+    }
+    .cont-p{
+        color: #233d4d;
+        margin-top:4rem ;
+        margin-left:1rem ;
+    }
+    
+    .place{
+        margin-left: 6rem;
+        margin-top: 3rem;
+        width:15.5rem ;
+        height: 3rem;
+        border-radius: 1rem;
+        padding-left: 1rem;
+        font-size:0.7rem ;
+        border: none;
+        background-color: #f2f2f2;
+
+    }
+    .para-2{ 
+        color:#233d4d;
+        margin-top: 3.6rem;
+        margin-left: 1rem;
+
+     }
+     .place-2{
+        margin-top: 3rem;
+        width:15rem ;
+        height: 3rem;
+        margin-left: 6rem;
+        border-radius: 1rem;
+        padding-left: 2rem;
+        font-size:0.7rem ;
+        border: none;
+        background-color: #f2f2f2;
+
+}
+.mess{
+margin-top: 1.5rem;
+margin-left:0.4rem ;
+font-size: 1.5rem;
+}
+.mess-place{
+ margin-left: 6rem;
+ margin-top: 1.5rem;
+ width: 16rem;
+ height: 4rem;
+ border-radius: 1rem;
+padding-bottom:12rem ;
+padding-left: 1rem;
+font-size:0.7rem ;
+border: none;
+background-color: #f2f2f2;
+
+
+}
+button{
+    width:8rem ;
+    height: 3rem;
+    border-radius: 1rem;
+    margin-left: 10rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-family: serif;
+    background-color:#457b9d;
+    box-shadow: 1px 1px 1px 1px seashell;
+    color: #233d4d;
+    border: none;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #023e7d;
+    color: oldlace;
+}
